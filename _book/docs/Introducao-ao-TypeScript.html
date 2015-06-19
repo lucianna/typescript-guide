@@ -1,0 +1,249 @@
+<!DOCTYPE HTML>
+<html lang="en" >
+    
+    <head>
+        
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>Introdução ao TypeScript | TypeScript Guide</title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 2.1.0">
+        
+        
+        <meta name="HandheldFriendly" content="true"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+        <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+        
+    <link rel="stylesheet" href="../gitbook/style.css">
+    
+    
+
+        
+    
+    
+    
+    <link rel="prev" href="../docs/um-pouco-sobre-mim.html" />
+    
+
+        
+    </head>
+    <body>
+        
+        
+    <div class="book" data-level="2" data-basepath=".." data-revision="Fri Jun 19 2015 13:36:23 GMT-0300 (BRT)">
+    
+
+<div class="book-summary">
+    <div class="book-search">
+        <input type="text" placeholder="Type to search" class="form-control" />
+    </div>
+    <ul class="summary">
+        
+        
+        
+        
+
+        
+
+        
+    
+        <li class="chapter " data-level="0" data-path="index.html">
+            
+                
+                    <a href="../index.html">
+                        <i class="fa fa-check"></i>
+                        
+                        Introduction
+                    </a>
+                
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="1" data-path="docs/um-pouco-sobre-mim.html">
+            
+                
+                    <a href="../docs/um-pouco-sobre-mim.html">
+                        <i class="fa fa-check"></i>
+                        
+                            <b>1.</b>
+                        
+                        Um pouco sobre mim
+                    </a>
+                
+            
+            
+        </li>
+    
+        <li class="chapter active" data-level="2" data-path="docs/Introducao-ao-TypeScript.html">
+            
+                
+                    <a href="../docs/Introducao-ao-TypeScript.html">
+                        <i class="fa fa-check"></i>
+                        
+                            <b>2.</b>
+                        
+                        Introdução ao TypeScript
+                    </a>
+                
+            
+            
+        </li>
+    
+
+
+        
+        <li class="divider"></li>
+        <li>
+            <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+                Published with GitBook
+            </a>
+        </li>
+        
+    </ul>
+</div>
+
+    <div class="book-body">
+        <div class="body-inner">
+            <div class="book-header">
+    <!-- Actions Left -->
+    <a href="#" class="btn pull-left toggle-summary" aria-label="Table of Contents"><i class="fa fa-align-justify"></i></a>
+    <a href="#" class="btn pull-left toggle-search" aria-label="Search"><i class="fa fa-search"></i></a>
+    
+    <div id="font-settings-wrapper" class="dropdown pull-left">
+        <a href="#" class="btn toggle-dropdown" aria-label="Font Settings"><i class="fa fa-font"></i>
+        </a>
+        <div class="dropdown-menu font-settings">
+    <div class="dropdown-caret">
+        <span class="caret-outer"></span>
+        <span class="caret-inner"></span>
+    </div>
+
+    <div class="buttons">
+        <button type="button" id="reduce-font-size" class="button size-2">A</button>
+        <button type="button" id="enlarge-font-size" class="button size-2">A</button>
+    </div>
+
+    <div class="buttons font-family-list">
+        <button type="button" data-font="0" class="button">Serif</button>
+        <button type="button" data-font="1" class="button">Sans</button>
+    </div>
+
+    <div class="buttons color-theme-list">
+        <button type="button" id="color-theme-preview-0" class="button size-3" data-theme="0">White</button>
+        <button type="button" id="color-theme-preview-1" class="button size-3" data-theme="1">Sepia</button>
+        <button type="button" id="color-theme-preview-2" class="button size-3" data-theme="2">Night</button>
+    </div>
+</div>
+
+    </div>
+
+    <!-- Actions Right -->
+    
+    <div class="dropdown pull-right">
+        <a href="#" class="btn toggle-dropdown" aria-label="Share"><i class="fa fa-share-alt"></i>
+        </a>
+        <div class="dropdown-menu font-settings dropdown-left">
+            <div class="dropdown-caret">
+                <span class="caret-outer"></span>
+                <span class="caret-inner"></span>
+            </div>
+            <div class="buttons">
+                <button type="button" data-sharing="twitter" class="button">
+                    Share on Twitter
+                </button>
+                <button type="button" data-sharing="google-plus" class="button">
+                    Share on Google
+                </button>
+                <button type="button" data-sharing="facebook" class="button">
+                    Share on Facebook
+                </button>
+                <button type="button" data-sharing="weibo" class="button">
+                    Share on Weibo
+                </button>
+                <button type="button" data-sharing="instapaper" class="button">
+                    Share on Instapaper
+                </button>
+            </div>
+        </div>
+    </div>
+    
+
+    
+    <a href="#" target="_blank" class="btn pull-right google-plus-sharing-link sharing-link" data-sharing="google-plus" aria-label="Google"><i class="fa fa-google-plus"></i></a>
+    
+    
+    <a href="#" target="_blank" class="btn pull-right facebook-sharing-link sharing-link" data-sharing="facebook" aria-label="Facebook"><i class="fa fa-facebook"></i></a>
+    
+    
+    <a href="#" target="_blank" class="btn pull-right twitter-sharing-link sharing-link" data-sharing="twitter" aria-label="Twitter"><i class="fa fa-twitter"></i></a>
+    
+    
+    
+
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="../" >TypeScript Guide</a>
+    </h1>
+</div>
+
+            <div class="page-wrapper" tabindex="-1">
+                <div class="page-inner">
+                
+                
+                    <section class="normal" id="section-">
+                    
+                        <h1 id="introdu%C3%A7%C3%A3o-ao-typescript">Introdu&#xE7;&#xE3;o ao TypeScript</h1>
+<h2 id="javascript-no-cen%C3%A1rio-atual">JavaScript no cen&#xE1;rio atual</h2>
+<p>Com o crescimento da internet e a necessidade cada vez maior de termos aplica&#xE7;&#xF5;es web expondo funcionalidades complexas de usabilidade no lado cliente (frontEnd), t&#xEA;m se ampliando cada vez mais o uso do JavaScript para suportar toda esta infinidade de programa&#xE7;&#xE3;o diretamente no navegador web.</p>
+<p>Vemos que nos &#xFA;ltimos anos nossos computadores ficaram mais r&#xE1;pidos, nossos navegadores ficaram mais r&#xE1;pidos e com isso o JavaScript tamb&#xE9;m teve seu curso de evolu&#xE7;&#xE3;o natural ficando mais r&#xE1;pido devido ao grande investimento em tecnologia feito nos compiladores e ganhando in&#xFA;meros recursos. Hoje podemos ver uma explos&#xE3;o de frameworks surgindo a todo momento, falamos sobre MVC e padr&#xF5;es de projeto dentre outros assuntos como se estivesse mos falando sobre linguagens cl&#xE1;ssicas como C++, Java ou C#. O JavaScript j&#xE1; ultrapassou as fronteiras da web e hoje podemos desenvolver aplicativos nativos para sistemas operacionais como no desenvolvimento de aplicativos para o Windows 8 por exemplo. Existem ainda outras t&#xE9;cnologias tais como Adobe AIR, Titanium, PhoneGap, Chromium entre outros.</p>
+<blockquote>
+<p>[:memo: TODO] Citar a contribui&#xE7;&#xE3;o trazida pelo nodeJs e</p>
+<p>[:memo: TODO] Citar algumas aplica&#xE7;&#xF5;es not&#xF3;rioas desenvolvidas com Javascript</p>
+</blockquote>
+<h2 id="desenvolvendo-aplica%C3%A7%C3%B5es-em-grande-escala">Desenvolvendo aplica&#xE7;&#xF5;es em grande escala</h2>
+<p>Com todo esse crescimento provocado pela ado&#xE7;&#xE3;o do JavaScript vem surgindo a preocupa&#xE7;&#xE3;o em como gerenciar todo o c&#xF3;digo fonte produzido permitindo escalar esta produ&#xE7;&#xE3;o da mesma forma que j&#xE1; acontece em outras linguagens de programa&#xE7;&#xE3;o. Foi pensando nisso que a Microsoft lan&#xE7;ou o TypeScript. Seu intuito &#xE9; de ampliar a escala de constru&#xE7;&#xE3;o de aplicativos fornecendo recursos avan&#xE7;ados de analise de tipagem est&#xE1;tica. O TypeScript leva o JavaScript para mais pr&#xF3;ximo dos desenvolvedores familiarizados com o conceito de orienta&#xE7;&#xE3;o a objetos como programadores das linguagens C#, C++ e Java entre outras.</p>
+<blockquote>
+<p>[:memo: TODO] Citar rela&#xE7;&#xE3;o ente o TypeScript e o futuro do JavaScript (es6). Falar sobre como o TypeScript tem caminhado lado a lado com a especifica&#xE7;&#xE3;o do es6</p>
+</blockquote>
+<p>O TypeScript &#xE9; um projeto OpenSource totalmente compat&#xED;vel com todos os navegadores e sistemas operacionais que j&#xE1; suportam o JavaScript. Na pr&#xE1;tica qualquer c&#xF3;digo JavaScript (com pequenos ajustes dependendo da complexidade deste c&#xF3;digo) pode ser utilizando dentro do TypeScript sendo que o resultado final ser&#xE1; sempre JavaScript, com a facilidade de poder antecipar diversos erros que s&#xF3; pegar&#xED;amos testando a aplica&#xE7;&#xE3;o gra&#xE7;as ao seu compilador dentre outras vantagens.</p>
+
+                    
+                    </section>
+                
+                
+                </div>
+            </div>
+        </div>
+
+        
+        <a href="../docs/um-pouco-sobre-mim.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page: Um pouco sobre mim"><i class="fa fa-angle-left"></i></a>
+        
+        
+    </div>
+</div>
+
+        
+<script src="../gitbook/app.js"></script>
+
+    
+    <script src="../gitbook/plugins/gitbook-plugin-livereload/plugin.js"></script>
+    
+
+<script>
+require(["gitbook"], function(gitbook) {
+    var config = {"fontSettings":{"theme":null,"family":"sans","size":2}};
+    gitbook.start(config);
+});
+</script>
+
+        
+    </body>
+    
+</html>
