@@ -14,6 +14,8 @@ Fique a vontade para contribuir. Conteúdo, correções, sugestões de tópicos 
 Este guia está sendo construído utilizando o GitBook. Para constribuir basta clonar este repositório, e instalar o `gitbook-cli`.
 
 ```shell
+git clone git@github.com:Diullei/typescript-guide.git
+
 npm install gitbook-cli -g
 ```
 
@@ -32,3 +34,9 @@ Membro dos times [DefinitelyTyped](https://github.com/DefinitelyTyped) e [TypeSt
 ## Contribuições
 
 > Seja o primeiro!
+
+<center>
+![](images/github.png)
+<br/>
+[Contribua pelo Github](https://github.com/Diullei/typescript-guide)
+</center>
