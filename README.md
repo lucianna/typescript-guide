@@ -31,6 +31,4 @@ Membro dos times [DefinitelyTyped](https://github.com/DefinitelyTyped) e [TypeSt
 
 ## Contribuições
 
-?
-
-{% include "./docs/footer.md" %}
+> Seja o primeiro!
