@@ -91,3 +91,5 @@ O TypeScript também nos permite adicionar tipagem estática para um código Jav
 ## Por que utilizar o TypeScript
 
 > [:memo: TODO] - Falta finalizar e concluir o capítulo
+
+{% include "./footer.md" %}

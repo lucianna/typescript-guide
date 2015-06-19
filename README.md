@@ -28,3 +28,9 @@ Membro dos times [DefinitelyTyped](https://github.com/DefinitelyTyped) e [TypeSt
 ## Revisão
 
 [Rodrigo Vidal](https://github.com/rodrigovidal)
+
+## Contribuições
+
+?
+
+{% include "./docs/footer.md" %}
