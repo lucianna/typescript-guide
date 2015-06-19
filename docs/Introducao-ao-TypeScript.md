@@ -88,4 +88,6 @@ Com uma definição de tipos bem feita podemos ter um intellisense (auto complet
 
 O TypeScript também nos permite adicionar tipagem estática para um código JavaScript sem que tenhamos a necessidade de alterar o código original. Isso é muito útil quando queremos utilizar um framework javascript que não está escrito em TypeScript como o [JQuery](https://github.com/borisyankov/DefinitelyTyped/blob/master/jquery/jquery.d.ts) por exemplo. Irei cobrir com detalhes a construção de arquivos de definição em outra seção.
 
+## Por que utilizar o TypeScript
+
 > [:memo: TODO] - Falta finalizar e concluir o capítulo
