@@ -21,6 +21,10 @@ Feito isso vá para a pasta onde o repositório foi clonado e use o comando `git
 
 ## Autor
 
-[@Diullei](https://github.com/Diullei)
+[Diullei](https://github.com/Diullei)
 
 Membro dos times [DefinitelyTyped](https://github.com/DefinitelyTyped) e [TypeStrong](https://github.com/typestrong). Criador do [TSD - TypeScript Package Manager](https://github.com/DefinitelyTyped/tsd)
+
+## Revisão
+
+[Rodrigo Vidal](https://github.com/rodrigovidal)
