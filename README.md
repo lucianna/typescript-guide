@@ -21,15 +21,15 @@ npm install gitbook-cli -g
 
 Feito isso vá para a pasta onde o repositório foi clonado e use o comando `gitbook serve .` para visualizar o guia.
 
-## Autor
+## Autores
 
 [Diullei](https://github.com/Diullei)
 
 Membro dos times [DefinitelyTyped](https://github.com/DefinitelyTyped) e [TypeStrong](https://github.com/typestrong). Criador do [TSD - TypeScript Package Manager](https://github.com/DefinitelyTyped/tsd)
 
-## Revisão
-
 [Rodrigo Vidal](https://github.com/rodrigovidal)
+
+> [:memo: TODO] Adicionar informações
 
 ## Contribuições
 
