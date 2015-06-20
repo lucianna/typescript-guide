@@ -35,8 +35,9 @@ Membro dos times [DefinitelyTyped](https://github.com/DefinitelyTyped) e [TypeSt
 
 > Seja o primeiro!
 
-<center>
-![](images/github.png)
 <br/>
-[Contribua pelo Github](https://github.com/Diullei/typescript-guide)
+<center>
+<image src="./images/github.png">
+<br/>
+<a href="https://github.com/Diullei/typescript-guide" target="_blank">Contribua pelo Github</a>
 </center>
