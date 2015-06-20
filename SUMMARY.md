@@ -1,6 +1,6 @@
 # Summary
 
-* [Um pouco sobre mim](docs/Sobre-os-autores.md)
+* [Sobre os autores](docs/Sobre-os-autores.md)
 * [Introdução ao TypeScript](docs/Introducao-ao-TypeScript.md)
 * [Iniciando](docs/iniciando.md)
     * [Via NodeJS](docs/iniciando-via-nodejs.md)
