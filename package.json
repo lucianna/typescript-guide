@@ -6,7 +6,9 @@
     "doc": "docs"
   },
   "scripts": {
-    "deploy": "gh-pages-deploy"
+    "deploy": "gh-pages-deploy",
+    "build": "gitbook build",
+    "serve": "gitbook serve ."
   },
   "gh-pages-deploy": {
     "staticpath": "_book",
