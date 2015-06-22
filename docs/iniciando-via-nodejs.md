@@ -1,6 +1,10 @@
 # Via NodeJS
 
-A forma mais rapida de iniciar ŕ usando o [nodejs](https://nodejs.org/). Acesse o site https://nodejs.org/ e baixe a versão do nodejs mais recente para o seu sistema operacional.
+A forma mais rapida de iniciar ŕ usando o [nodejs](https://nodejs.org/).
+
+> [:memo: TODO] Falar um pouco mais sobre o node
+
+Acesse o site https://nodejs.org/ e baixe a versão do nodejs mais recente para o seu sistema operacional.
 
 Feita a instalação vamos agora instalar o typescript. Use a seguinte linha de comando:
 
