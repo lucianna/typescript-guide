@@ -5,7 +5,7 @@
 * [Iniciando](docs/iniciando.md)
     * [Via NodeJS](docs/iniciando-via-nodejs.md)
     * [Usando o Visual Studio](.)
-    * [Usando o VsCode](.)
+    * [Usando o VsCode](docs/iniciando-Usando-o-VsCode.md)
     * [Usando o Sublime](.)
     * [Usando o Atom](.)
     * [Hello world](.)

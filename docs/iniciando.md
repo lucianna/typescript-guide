@@ -4,7 +4,7 @@ O objetivo desta seção é explicar como configurar o ambiente para trabalhar c
 
 * [Via NodeJS](iniciando-via-nodejs.md)
 * [Usando o Visual Studio](.)
-* [Usando o VsCode](.)
+* [Usando o VsCode](iniciando-Usando-o-VsCode.md)
 * [Usando o Sublime](.)
 * [Usando o Atom](.)
 * [Hello world](.)
