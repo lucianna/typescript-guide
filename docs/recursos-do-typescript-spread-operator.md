@@ -36,7 +36,7 @@ Este recurso também pode ser utilizado na construção de arrays:
 
 
 ```typescript
-fvar array1 = [1, 2, 3];
+var array1 = [1, 2, 3];
 var array2 = [0, ...array1, 4, 5, 6];
 ```
 
