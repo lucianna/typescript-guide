@@ -55,3 +55,5 @@ function foo(x, y, z) { }
 var args = [0, 1, 2];
 foo(...args);
 ```
+
+{% include "./footer.md" %}

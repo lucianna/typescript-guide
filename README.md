@@ -29,7 +29,7 @@ Membro dos times [DefinitelyTyped](https://github.com/DefinitelyTyped) e [TypeSt
 
 [Rodrigo Vidal](https://github.com/rodrigovidal)
 
-> [:memo: TODO] Adicionar informações
+> [TODO] Adicionar informações
 
 ## Contribuições
 
