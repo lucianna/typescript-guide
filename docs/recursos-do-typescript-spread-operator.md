@@ -4,7 +4,7 @@
 
 > [TODO - REVISAR]
 
-O `Spread Operator` (Operador Propagação) permite que uma expressão seja expandida em locais onde são esperados vários argumentos (chamadas de função) ou múltiplos elementos (arrays literais).
+O `Spread Operator` (Operador de Propagação) permite que uma expressão seja expandida em locais onde são esperados vários argumentos (chamadas de função) ou múltiplos elementos (arrays literais).
 
 Para entender melhor este recurso observe o seguinte exemplo:
 
