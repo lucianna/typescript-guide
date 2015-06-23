@@ -1,5 +1,9 @@
 # Usando o VSCode (Visual Studio Code)
 
+> [TODO - FINALIZAR]
+
+> [TODO - REVISAR]
+
 O VSCode é um editor multiplataforma criado pela Microsoft. O Visual Studio Code foi criado usando uma mistura de tecnologias de código aberto e baseadas na web, como o Chromium, o Electron app framework do GitHub, e próprio editor Monaco, da Microsoft. Trata-se de um editor de código, não espere encontrar uma IDE super completa como o Visual Studio, mas mesmo sendo um editor o VSCode surpreende muito com seus recursos e suporte a programação com todfas as caracteristicas de um bom editor.
 
 > Para facilitar a escrita a partir de agora sempre irei me referir ao visual Studio Code simplesmente como VSCode.
@@ -62,7 +66,7 @@ var person = new Person('joão');
 console.log(person.getName());
 ```
 
-Tente compilar o projeto teclando `Ctrl-Shift-B`. Note que o VSCode irá exibir uma mensagem dizendo que não temos uma `task` configurada para o nosso projeto _(:memo: TODO - explicar o que são as tasks do VSCode)_.
+Tente compilar o projeto teclando `Ctrl-Shift-B`. Note que o VSCode irá exibir uma mensagem dizendo que não temos uma `task` configurada para o nosso projeto _(TODO - explicar o que são as tasks do VSCode)_.
 
 ![](../images/image009.jpg)
 

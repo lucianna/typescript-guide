@@ -19,6 +19,8 @@
     * [Let](.)
     * [For...of](.)
     * [Template string](.)
+    * [Rest Parameters](docs/recursos-do-typescript-rest-parameter.md)
+    * [Operador de propagação (Spread Operator)](docs/recursos-do-typescript-spread-operator.md)
     * [Orientação a Objetos](.)
         * [Interfaces](.)
         * [Classes](.)

@@ -1,8 +1,12 @@
 # Via NodeJS
 
+> [TODO - REVISAR]
+
+> [TODO - FINALIZAR]
+
 A forma mais rapida de iniciar ŕ usando o [nodejs](https://nodejs.org/).
 
-> [:memo: TODO] Falar um pouco mais sobre o node
+> [TODO] Falar um pouco mais sobre o node
 
 Acesse o site https://nodejs.org/ e baixe a versão do nodejs mais recente para o seu sistema operacional.
 

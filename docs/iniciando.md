@@ -1,5 +1,9 @@
 # Iniciando
 
+> [TODO - FINALIZAR]
+
+> [TODO - REVISAR]
+
 O objetivo desta seção é explicar como configurar o ambiente para trabalhar com TypeScript.
 
 * [Via NodeJS](iniciando-via-nodejs.md)
